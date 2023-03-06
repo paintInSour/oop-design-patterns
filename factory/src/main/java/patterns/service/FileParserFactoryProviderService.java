@@ -1,10 +1,11 @@
-package patterns.creational.factory.factory;
+package patterns.service;
 
 import org.springframework.stereotype.Service;
-import patterns.creational.factory.constant.FileSource;
-import patterns.creational.factory.parser.Parser;
-
-import java.util.List;
+import patterns.constant.FileSource;
+import patterns.factory.FileParserFactory;
+import patterns.factory.StaticFileParserFactory;
+import patterns.factory.WebFileParserFactory;
+import patterns.parser.Parser;
 
 @Service
 public class FileParserFactoryProviderService {

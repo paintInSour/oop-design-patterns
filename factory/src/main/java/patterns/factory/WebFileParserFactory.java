@@ -1,11 +1,10 @@
-package patterns.creational.factory.factory;
+package patterns.factory;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
-import patterns.creational.factory.constant.FileSource;
-import patterns.creational.factory.constant.FileType;
-import patterns.creational.factory.parser.HTMLParser;
-import patterns.creational.factory.parser.Parser;
+import patterns.constant.FileType;
+import patterns.parser.HTMLParser;
+import patterns.parser.Parser;
 
 @Slf4j
 @Component

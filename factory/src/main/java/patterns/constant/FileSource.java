@@ -1,4 +1,4 @@
-package patterns.creational.factory.constant;
+package patterns.constant;
 
 public enum FileSource {
     WEB,

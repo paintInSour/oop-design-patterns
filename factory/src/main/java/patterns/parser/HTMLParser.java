@@ -1,8 +1,8 @@
-package patterns.creational.factory.parser;
+package patterns.parser;
 
 import org.springframework.stereotype.Component;
-import patterns.creational.factory.file.File;
-import patterns.creational.factory.file.HtmlFile;
+import patterns.file.File;
+import patterns.file.HtmlFile;
 
 @Component
 public class HTMLParser implements Parser {

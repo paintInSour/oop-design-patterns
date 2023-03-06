@@ -1,1 +1,3 @@
-rootProject.name = 'factory'
+rootProject.name = 'templates-project'
+include 'factory'
+

@@ -1,15 +1,15 @@
-package patterns.creational.factory;
+package patterns;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-import patterns.creational.factory.constant.FileSource;
-import patterns.creational.factory.constant.FileType;
-import patterns.creational.factory.factory.FileParserFactoryProviderService;
-import patterns.creational.factory.file.File;
-import patterns.creational.factory.file.HtmlFile;
-import patterns.creational.factory.file.XMLFile;
-import patterns.creational.factory.parser.Parser;
+import patterns.constant.FileSource;
+import patterns.constant.FileType;
+import patterns.service.FileParserFactoryProviderService;
+import patterns.file.File;
+import patterns.file.HtmlFile;
+import patterns.file.XMLFile;
+import patterns.parser.Parser;
 
 @SpringBootTest
 class FactoryApplicationTests {

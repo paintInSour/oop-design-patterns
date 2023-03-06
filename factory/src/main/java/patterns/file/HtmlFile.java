@@ -1,4 +1,4 @@
-package patterns.creational.factory.file;
+package patterns.file;
 
 public class HtmlFile implements File{
 }
