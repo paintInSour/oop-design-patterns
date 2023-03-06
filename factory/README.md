@@ -16,6 +16,6 @@ and provide **factory method** to create particular file parser
 
 ## UML structure
 
-![Abstract factory](/static/AbstractFactoryUML.png)
+![Abstract factory](https://github.com/paintInSour/oop-design-patterns/blob/master/factory/static/AbstractFactoryUML.png?raw=true)
 
 
