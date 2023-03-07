@@ -1,4 +1,4 @@
-# oop-design-patterns
+# Abstract factory/Factory method
 ## ABSTRACT TASK
 
 Create program to parse files from internet and from local filesystem. Initial file formats HTLM for web, JSON,XML for local filesystem.
