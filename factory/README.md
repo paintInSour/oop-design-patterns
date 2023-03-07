@@ -16,7 +16,7 @@ and provide **factory method** to create particular file parser
 
 ### [Workflow demonstrated here](https://github.com/paintInSour/oop-design-patterns/blob/master/factory/src/test/java/patterns/FactoryApplicationTests.java) 
 
-## UML structure
+## Abstract factory usage diagram
 
 ![Abstract factory](https://github.com/paintInSour/oop-design-patterns/blob/master/factory/static/AbstractFactoryDiagram.png?raw=true)
 
