@@ -18,6 +18,6 @@ pattern prevents redundant requests for static data to the database/filesystem/a
 
 ## Prototype usage diagram
 
-![Prototype](https://github.com/paintInSour/oop-design-patterns/blob/master/factory/static/PrototypeDiagram.png?raw=true)
+![Prototype](https://github.com/paintInSour/oop-design-patterns/blob/master/prototype-builder/static/PrototypeDiagram.png?raw=true)
 
 
