@@ -14,7 +14,7 @@ pattern prevents redundant requests for static data to the database/filesystem/a
 
 **OrderRecipe** use **Builder** pattern to create new instance.
 
-### [Workflow demonstrated here](https://github.com/paintInSour/oop-design-patterns/blob/master/factory/src/test/java/patterns/prototype/builder/PrototypeTest.java)
+### [Workflow demonstrated here](https://github.com/paintInSour/oop-design-patterns/blob/master/prototype-builder/src/test/java/patterns/prototype/builder/PrototypeTest.java)
 
 ## Prototype usage diagram
 
