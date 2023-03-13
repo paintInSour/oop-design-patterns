@@ -22,7 +22,7 @@ that are notified about events processed it **PaymentServiceStrategy**
 **SalesPaymentNotificationCommand** and **UserPaymentNotificationCommand** implement **NotificationCommand** and **PaymentObserver** interfaces.
 **PaymentServiceStrategy** and **OrderNotificationService** are loosely coupled together with help of Command patter that act as Observer.
 
-### [Workflow demonstrated here](https://github.com/paintInSour/oop-design-patterns/blob/master/prototype-builder/src/test/java/patterns/command/CommandTest.java)
+### [Workflow demonstrated here](https://github.com/paintInSour/oop-design-patterns/blob/master/strategy-observer-command/src/test/java/patterns/command/CommandTest.java)
 
 ## Prototype usage diagram
 
