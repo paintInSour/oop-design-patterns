@@ -1,4 +1,4 @@
-# Prototype/Builder
+# Strategy/Observer/Command
 
 ## ABSTRACT TASK
 
@@ -25,7 +25,7 @@ that are notified about events processed it **PaymentServiceStrategy**
 
 ### [Workflow demonstrated here](https://github.com/paintInSour/oop-design-patterns/blob/master/strategy-observer-command/src/test/java/patterns/command/CommandTest.java)
 
-## Prototype usage diagram
+## Usage diagram
 
 ![Prototype](https://github.com/paintInSour/oop-design-patterns/blob/master/strategy-observer-command/static/diagram_lab3.png?raw=true)
 
