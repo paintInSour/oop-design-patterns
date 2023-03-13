@@ -1,4 +1,6 @@
 rootProject.name = 'templates-project'
 include 'factory'
 include 'prototype-builder'
+include 'strategy-observer-command'
+include 'stretegy-observer-command'
 
