@@ -7,9 +7,10 @@ User and Sales Platform should be notified about this order.
 
 ### TASK
 
-- Create Order processors using Strategy pattern for PayPal and Credit Card payment.
-- Create service for sending order data to User platform and to Sales platform
-- Bound Order processors with User and Sales platforms using Observer pattern.
+- Create OrderProcessingService and use Strategy pattern to process PayPal and Credit Card payment.
+- Create OrderNotificationService for sending order data to User platform and to Sales platform
+- Use Command pattern to execute notifications to User and Sales Platform
+- Couple OrderProcessingService and OrderNotificationService using observer pattern to execute NotificationCommands when Observer is notified about new events.
 
 ## IMPLEMENTATION
 
